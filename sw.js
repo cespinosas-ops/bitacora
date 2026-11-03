@@ -1,5 +1,5 @@
 // Guarda la app en el teléfono para que abra aunque no haya señal en el gym.
-const CACHE = "bitacora-v2";
+const CACHE = "bitacora-v3";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 const CDN = [
   "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js",
